@@ -1,0 +1,8 @@
+einops==0.8.0
+ipykernel==6.29.5
+ipython==8.31.0
+ipywidgets==8.1.5
+jupyterlab==4.3.4
+matplotlib==3.10.0
+pandas==2.2.3
+tqdm==4.67.1
